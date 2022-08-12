@@ -8,4 +8,5 @@
 - 📫 How to reach me: ..
 - 😄 Pronouns: Talha
 - ⚡ Fun fact: I want to travel the world..
--->
+
+<img src="https://github-readme-stats.vercel.app/api?username=altalha201&&show_icons=true&title_color=ffffff&icon_color=ff0000&text_color=ffffff&bg_color=000000">
