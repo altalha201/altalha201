@@ -1,4 +1,5 @@
 ### Hello everyone, I'm Md. Motasaddique Al Talha 👋
+##### I'm a student of Computer Science and currently looking for Job on flutter development 
 
 - 🔭 I’m currently working on collage project 
 - 🌱 I’m currently learning mobile application development with flutter
