@@ -20,7 +20,7 @@
 - 📫 How to reach me: </br>
 <a href="https://www.linkedin.com/in/md-motasaddique-al-talha-449a8b1b3" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="tal.cse201@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> &nbsp;
-<a href="https://drive.google.com/file/d/1GocnLqoy2KP6FxyV2bwBhGDNrLBTkcXb/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/My%20resume-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white"/></a>
+<a href="[https://drive.google.com/file/d/1GocnLqoy2KP6FxyV2bwBhGDNrLBTkcXb/view?usp=drive_link](https://drive.google.com/file/d/1evDmDpP3H9rRyEJZck5MKkdhd-w5iS8b/view?usp=drive_link)" target="_blank"><img src="https://img.shields.io/badge/My%20resume-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white"/></a>
 
 <br> 
 
